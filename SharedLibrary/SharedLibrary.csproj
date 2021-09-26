@@ -8,7 +8,9 @@
         <Title>RantingDemon C# and .Net Shared Library</Title>
         <Authors>RantingDemon</Authors>
         <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
-        <
+        <PackageProjectUrl>https://github.com/rantingdemon/CS9_DotNet5_SharedLib</PackageProjectUrl>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        
     </PropertyGroup>
 
 </Project>
