@@ -1,0 +1,3 @@
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/bin/Release/netstandard2.0/win10-x64/publish/SharedLibrary.dll
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/bin/Release/netstandard2.0/win10-x64/publish/SharedLibrary.deps.json
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/bin/Release/netstandard2.0/win10-x64/publish/SharedLibrary.pdb

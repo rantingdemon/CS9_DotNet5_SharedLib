@@ -1,0 +1,9 @@
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/bin/Debug/netstandard2.0/SharedLibrary.deps.json
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/bin/Debug/netstandard2.0/SharedLibrary.dll
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/bin/Debug/netstandard2.0/SharedLibrary.pdb
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.csproj.AssemblyReference.cache
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.AssemblyInfo.cs
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.dll
+/Users/rantingdemon/Source/dotnet5books/csharp9_dotnet5/chapter05/rider/Chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.pdb
